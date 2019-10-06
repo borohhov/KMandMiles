@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KM and Miles</string>
+    <string name="kilometers">Enter kilometers</string>
+    <string name="enter_miles">Enter miles</string>
+</resources>
